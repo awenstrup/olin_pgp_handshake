@@ -2,6 +2,12 @@
 This repository is an environment to experiment with the Handshake API and develop solutions for the Post-Graduate Planning Office at Olin College. If you are from another institution, feel free to use this repository as a resource in your own development.
 
 ### How to use
+
+##### Requirements
+This project makes use of the Python requests library. If this library is not already on you computer, you will have to execute this command in the terminal:
+`pip install requests`
+
+##### Running source code
 Currently, there is not enough code to use this repository to do useful work.
 
 ### How to contribute
