@@ -13,4 +13,5 @@ If any of this is new to you (as it all was to me at the time I created this pro
 - [A high level introduction to HTTP, REST, and API's](https://restful.io/an-introduction-to-api-s-cee90581ca1b) (I highly recomend this as a starting point!)
 - [REST tutorial](https://www.tutorialspoint.com/restful/restful_introduction.htm)
 - [Handshake API](https://documentation.joinhandshake.com/reference#introduction)
+- [Intrudution to sending HTTP requests in Python](https://www.geeksforgeeks.org/get-post-requests-using-python/)
 
