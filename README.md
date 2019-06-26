@@ -11,7 +11,7 @@ This project makes use of the Python requests library. If this library is not al
 Currently, there is not enough code to use this repository to do useful work.
 
 ### How to contribute
-If you are familiar with RESTful development and JSON, feel free to dive right in and start working! If you are an Olin student working with the office of Post-Graduate Planning and would like access to the API key, or to be added as a collaborator on this repository, please email me at awenstrup@olin.edu.
+If you are familiar with the Handshake API, RESTful architecture, and JSON, feel free to dive right in and start working! If you are an Olin student working with the office of Post-Graduate Planning and would like access to the API key, or to be added as a collaborator on this repository, please email me at awenstrup@olin.edu.
 
 If any of this is new to you (as it all was to me at the time I created this project), feel free to check out the resources below that I used to learn about development for the Handshake API.
 
